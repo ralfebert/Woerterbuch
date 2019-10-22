@@ -1,4 +1,5 @@
-// © 2019 Ralf Ebert — Dictionary
+// © 2019 Ralf Ebert — iOS Beispielprojekt: Woerterbuch
+// License: https://opensource.org/licenses/MIT
 
 import UIKit
 

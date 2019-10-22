@@ -1,15 +1,15 @@
-name: Dictionary
+name: Woerterbuch
 options:
   bundleIdPrefix: com.example
   generateEmptyDirectories: true
   deploymentTarget:
     iOS: "10.0"
 targets:
-  Dictionary:
+  Woerterbuch:
     type: application
     platform: iOS
     sources:
-      - path: Dictionary
+      - path: Woerterbuch
         excludes:
           - "Assets/*.sketch"
     settings:
